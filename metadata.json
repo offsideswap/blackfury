@@ -1,0 +1,18 @@
+{
+	"description": "The native staking and governance token of the Blackfury Protocol",
+	"denom_units": [
+		{
+				"denom": "afury",
+				"exponent": 0,
+				"aliases": ["nativeufury"]
+		},
+		{
+				"denom": "FURY",
+				"exponent": 18
+		}
+	],
+	"base": "afury",
+	"display": "FURY",
+	"name": "Fury",
+	"symbol": "FURY"
+}
